@@ -1,1 +1,1 @@
-# All Linked List solution here in this directory
+# All solutions for Linked List problems are available in this directory.
